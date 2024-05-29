@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30130605036",
+    "project_id": "tokone-12c65",
+    "storage_bucket": "tokone-12c65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30130605036:android:021247785f66ba922d0ec9",
+        "android_client_info": {
+          "package_name": "com.raflisalam.tokone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_poJ3yra-xhza3_PFPRbs3FvbyGYKsoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
